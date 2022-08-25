@@ -1,6 +1,6 @@
 
 ### Знания языков:
-![Python 57%](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)  57%
+![Python](https://img.shields.io/badge/-Python 57%-090909?style=for-the-badge&logo=python&logoColor=47C5FB)  57%
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)  19%
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF) 29%
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)  76%
