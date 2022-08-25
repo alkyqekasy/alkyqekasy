@@ -1,4 +1,17 @@
 ### Hi there 👋
+<nav>
+  <ul>
+    <li>
+      Главная
+      <span></span><span></span><span></span><span></span>
+    </li>
+    <li>
+      VK
+      <span></span><span></span><span></span><span></span>
+    </li>
+  </ul>
+</nav>
+
 
 <!--
 **alkyqekasy/alkyqekasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
